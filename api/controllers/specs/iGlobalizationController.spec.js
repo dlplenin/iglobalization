@@ -28,4 +28,9 @@ describe('Globalization', () => {
     dictionary = localeDictionary('es-EC', dictionaries['es-ec']);
     expect(dictionary.dashboard).toBe('tablero');
   });
+
+  it('should call to default dictionayy if a wrong locale value is receibed', () => {
+    let dictionary = localeDictionary('nonExistent');
+    expect(dictionary.welcome).toBe('welcome');
+  });
 });

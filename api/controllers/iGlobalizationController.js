@@ -1,23 +1,17 @@
-function flattenMessages(nestedMessages, prefix = '') {
-  return Object.keys(nestedMessages).reduce((messages, key) => {
-    let value = nestedMessages[key];
-    let prefixedKey = prefix ? `${prefix}.${key}` : key;
-
-    if (typeof value === 'string') {
-      messages[prefixedKey] = value;
-    }
-    if (typeof value !== 'string') {
-      Object.assign(messages, flattenMessages(value, prefixedKey));
-    }
-    return messages;
-  }, {});
-}
+import {flattenMessages} from '../utils/flattenMessage';
 
 export default {
   localeDictionary(locale, mockDictionary) {
     const lang = locale.toLowerCase();
-    const requiredDictionary = mockDictionary || require('../messages/' + lang)[lang];
-  
+
+    let requiredDictionary;
+
+    try {
+      requiredDictionary = mockDictionary || require('../messages/' + lang)[lang];
+    } catch (error) {
+      requiredDictionary = require('../messages/en-us')['en-us'];
+    }
+
     return flattenMessages(requiredDictionary);
   }
 };

@@ -8,7 +8,7 @@ describe('iGlobalization route', () => {
     routes = instanceRoute(iGlobalizationRoutes);
   });
 
-  it('should call dictionay get', (done) => {
+  it('should call to dictionary get', (done) => {
     let req = {
       params: {locale: 'en-US'}
     };

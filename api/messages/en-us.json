@@ -1,6 +1,10 @@
 {
 	"en-us": {
-		"welcome": "welcome",
-		"dashboard": "dashboard"
+		"system": {
+			"home": "home",
+			"dashboard": "dashboard",
+			"support": "support"
+		},
+		"welcome": "welcome"
 	}
 }

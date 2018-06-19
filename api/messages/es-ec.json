@@ -1,6 +1,10 @@
 {
 	"es-ec": {
-		"welcome": "bienvenido",
-		"dashboard": "tablero"
+		"system": {
+			"home": "inicio",
+			"dashboard": "tablero",
+			"support": "soporte"
+		},
+		"welcome": "bienvenida(o)"
 	}
 }

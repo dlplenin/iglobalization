@@ -1,10 +1,23 @@
 {
 	"en-us": {
 		"system": {
-			"home": "home",
-			"dashboard": "dashboard",
-			"support": "support"
+			"home": "home"
 		},
-		"welcome": "welcome"
+		"dashboard": "dashboard",
+		"support": "support",
+		"welcome": "welcome",
+		"generalList": "general list",
+		"new": "new",
+		"name": "name",
+		"country": "country",
+		"school": "{qty, plural, one {school} other {schools}}",
+		"schools": "schools",
+		"editSchool": "edit school",
+		"languageCulture": "language (culture)",
+		"save": "save",
+		"year": "year",
+		"settings": "settings",
+		"myProfile": "my profile",
+		"logout": "logout"
 	}
 }

@@ -1,10 +1,23 @@
 {
 	"es-ec": {
 		"system": {
-			"home": "inicio",
-			"dashboard": "tablero",
-			"support": "soporte"
+			"home": "inicio"
 		},
-		"welcome": "bienvenida(o)"
+		"dashboard": "tablero",
+		"support": "soporte",
+		"welcome": "bienvenid@",
+		"generalList": "lista general",
+		"new": "nuevo",
+		"name": "nombre",
+		"country": "país",
+		"school": "{qty, plural, one {escuela} other {escuelas}}",
+		"schools": "escuelas",
+		"editSchool": "editar escuela",
+		"languageCulture": "idioma (cultura)",
+		"save": "guardar",
+		"year": "año",
+		"settings": "configuración",
+		"myProfile": "mi perfil",
+		"logout": "salir"
 	}
 }

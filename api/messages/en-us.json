@@ -18,6 +18,7 @@
 		"year": "year",
 		"settings": "settings",
 		"myProfile": "my profile",
-		"logout": "logout"
+		"logout": "logout",
+		"addSchool": "add school"
 	}
 }

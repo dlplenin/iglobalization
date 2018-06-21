@@ -12,12 +12,13 @@
 		"country": "país",
 		"school": "{qty, plural, one {escuela} other {escuelas}}",
 		"schools": "escuelas",
-		"editSchool": "editar escuela",
+		"editSchool": "edición de escuela",
 		"languageCulture": "idioma (cultura)",
 		"save": "guardar",
 		"year": "año",
 		"settings": "configuración",
 		"myProfile": "mi perfil",
-		"logout": "salir"
+		"logout": "salir",
+		"addSchool": "creación de escuela"
 	}
 }

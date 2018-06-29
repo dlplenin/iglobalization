@@ -111,6 +111,7 @@
 		"new": "nuevo",
 		"newSection": "nueva sección",
 		"noRegister": "No se ha creado ningún registro",
+		"occupation": "profesión",
 		"oneRegisterMinimum": "un registro es el mínimo para esta sección",
 		"other": "otro",
 		"otherDietaryRestrictions": "¿Otras restricciones dietéticas?",
@@ -162,6 +163,7 @@
 		"sleptThroughTheNight": "durmió toda la noche",
 		"specialFearsYouAreAwareOf": "¿Tu hijo tiene algún temor especial del que tengas conocimiento?",
 		"speechProblemsWeShouldAwareOf": "¿Tiene tu hijo algún problema de habla que debemos tener en cuenta?",
+		"state": "provincia",
 		"statementsHealthOverall": "declaración o evaluación general de salud de tu hijo",
 		"stomachAchesOrVomiting": "dolor de estómago o vómitos",
 		"structure": "estructura",
@@ -192,6 +194,7 @@
 		"wordBowelMovement": "Palabra que el niño usa para deposición",
 		"wordChildUsesForUrination": "Palabra que el niño usa para orinar",
 		"year": "{qty, plural, one {año} other {años}}",
-		"years": "años"
+		"years": "años",
+		"zip": "código postal"
 	}
 }

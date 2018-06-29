@@ -111,6 +111,7 @@
 		"new": "new",
 		"newSection": "new section",
 		"noRegister": "No register has been created",
+		"occupation": "occupation",
 		"oneRegisterMinimum": "one register is the minimum for this section",
 		"other": "other",
 		"otherDietaryRestrictions": "Other dietary restrictions?",
@@ -162,6 +163,7 @@
 		"sleptThroughTheNight": "Slept through the night",
 		"specialFearsYouAreAwareOf": "Does your child have any special fears that you are aware of?",
 		"speechProblemsWeShouldAwareOf": "Does your child have any speech problems that we should be aware of?",
+		"state": "state",
 		"statementsHealthOverall": "statement or evaluation of your child’s overall heath",
 		"stomachAchesOrVomiting": "stomach aches or vomiting",
 		"structure": "structure",
@@ -192,6 +194,7 @@
 		"wordBowelMovement": "Word child uses for bowel movement",
 		"wordChildUsesForUrination": "Word child uses for urination",
 		"year": "{qty, plural, one {year} other {years}}",
-		"years": "years"
+		"years": "years",
+		"zip": "zip code"
 	}
 }

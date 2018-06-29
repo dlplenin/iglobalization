@@ -13,6 +13,7 @@
 		"ageTo": "age to",
 		"all": "all",
 		"anythingElseToKnow": "Is there anything else that you would like us to know about your child?",
+		"application": "application",
 		"asthma": "asthma",
 		"awaken": "awaken",
 		"babySitters": "Has the child had experience with baby-sitters or caregivers other than parents?",
@@ -143,6 +144,7 @@
 		"repeatedShortSentences": "repeated short sentences",
 		"rightOrLeftHanded": "Is child right or left handed?",
 		"roomAlone": "Does child have a room alone?",
+		"sameParentAdress": "same parent address",
 		"satAlone": "sat alone",
 		"save": "save",
 		"scarletFever": "scarlet fever",
@@ -161,6 +163,7 @@
 		"sleepInTheSameBedWithYou": "Does child sleep in the same bed with you?",
 		"sleepWell": "Does child sleep well?",
 		"sleptThroughTheNight": "Slept through the night",
+		"soleParent": "sole parent",
 		"specialFearsYouAreAwareOf": "Does your child have any special fears that you are aware of?",
 		"speechProblemsWeShouldAwareOf": "Does your child have any speech problems that we should be aware of?",
 		"state": "state",
@@ -195,6 +198,7 @@
 		"wordChildUsesForUrination": "Word child uses for urination",
 		"year": "{qty, plural, one {year} other {years}}",
 		"years": "years",
+		"youAreEditingSomeoneElse": "Remember that you are editing someone else's information",
 		"zip": "zip code"
 	}
 }

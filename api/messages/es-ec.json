@@ -13,6 +13,7 @@
 		"ageTo": "edad hasta",
 		"all": "todo",
 		"anythingElseToKnow": "¿Hay algo más que te gustaría que sepamos sobre tu hijo?",
+		"application": "aplicación",
 		"asthma": "asma",
 		"awaken": "se despierta",
 		"babySitters": "¿Ha tenido el niño experiencia con niñeras o cuidadores que no sean sus padres?",
@@ -144,6 +145,7 @@
 		"rightOrLeftHanded": "¿El niño es diestro o zurdo?",
 		"roomAlone": "¿Tiene el niño habitación para él solo?",
 		"satAlone": "sentarse solo",
+		"sameParentAdress": "copiar dirección anterior",
 		"save": "guardar",
 		"scarletFever": "escarlatina",
 		"school": "{qty, plural, one {escuela} other {escuelas}}",
@@ -161,6 +163,7 @@
 		"sleepInTheSameBedWithYou": "¿Duerme el niño en la misma cama contigo?",
 		"sleepWell": "Does child sleep well?",
 		"sleptThroughTheNight": "durmió toda la noche",
+		"soleParent": "madre/padre soltera(o)",
 		"specialFearsYouAreAwareOf": "¿Tu hijo tiene algún temor especial del que tengas conocimiento?",
 		"speechProblemsWeShouldAwareOf": "¿Tiene tu hijo algún problema de habla que debemos tener en cuenta?",
 		"state": "provincia",
@@ -195,6 +198,7 @@
 		"wordChildUsesForUrination": "Palabra que el niño usa para orinar",
 		"year": "{qty, plural, one {año} other {años}}",
 		"years": "años",
+		"youAreEditingSomeoneElse": "recuerde que está editando la información de otra persona",
 		"zip": "código postal"
 	}
 }
